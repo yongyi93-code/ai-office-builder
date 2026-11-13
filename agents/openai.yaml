@@ -1,0 +1,4 @@
+interface:
+  display_name: "可视化 AI 办公室搭建"
+  short_description: "复用真实任务驱动的中文三维办公室、角色指令、生活动作和运行验证方法"
+  default_prompt: "使用 $ai-office-builder，帮我搭建或扩展一个真实任务驱动的中文可视化 AI 办公室。"
